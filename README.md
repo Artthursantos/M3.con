@@ -6,13 +6,13 @@ Use o aplicativo somente com conteúdo que você tenha autorização para baixar
 
 ## Baixar para Windows
 
-As versões para usuários serão publicadas na seção **Releases** do GitHub. Escolha um dos dois arquivos ZIP:
+Baixe a versão atual na [página de Releases](https://github.com/Artthursantos/M3.con/releases). Na `v1.0.0`, escolha um dos pacotes:
 
 ### M3.con Windows Leve
 
 Este pacote contém o aplicativo, mas não inclui o FFmpeg. Ele é menor e serve para computadores que já têm o FFmpeg instalado.
 
-1. Baixe `M3.con-Windows-Leve.zip` em **Releases**.
+1. Baixe o [M3.con Windows Leve](https://github.com/Artthursantos/M3.con/releases/download/v1.0.0/M3.con-Windows-Leve.zip).
 2. Extraia todos os arquivos para uma pasta. Não execute o aplicativo de dentro do ZIP.
 3. Abra `M3.con.exe` com dois cliques.
 4. Se o FFmpeg não estiver instalado, abra o Terminal e execute `winget install ffmpeg`.
@@ -22,7 +22,7 @@ Este pacote contém o aplicativo, mas não inclui o FFmpeg. Ele é menor e serve
 
 Este pacote inclui o FFmpeg necessário para a conversão. É maior, mas não precisa de Python nem de uma instalação separada do FFmpeg.
 
-1. Baixe `M3.con-Windows-Portatil.zip` em **Releases**.
+1. Baixe o [M3.con Windows Portátil](https://github.com/Artthursantos/M3.con/releases/download/v1.0.0/M3.con-Windows-Portatil.zip).
 2. Extraia todos os arquivos para uma pasta. Mantenha `M3.con.exe` e a pasta `ffmpeg` juntos.
 3. Abra `M3.con.exe` com dois cliques.
 
